@@ -39,7 +39,7 @@ Digite o tempo médio de uso diário do aparelho: 10
 Aparelho: Geladeira
 Consumo estimado: 45.0
 Custo estimado: R$33.75
-
+```
 ---
 
 👩‍💻 **Desenvolvido por Gabriely Cezario**
